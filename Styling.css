@@ -1,0 +1,13 @@
+.ip{
+    margin:10px;
+}
+
+.btn{
+    margin:10px;
+}
+
+.btn:hover{
+    background-color: aquamarine;
+    transform: scale(1.1);
+    border-radius: 1px;
+}

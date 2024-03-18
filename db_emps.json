@@ -1,0 +1,39 @@
+{
+  "emps": [
+    {
+      "empno": 10,
+      "ename": "Shruti Gahlaut",
+      "job": "Backend Developer",
+      "sal": 225000,
+      "deptno": "10"
+    },
+    {
+      "empno": 11,
+      "ename": "Mayank Rawal",
+      "job": "Human Resources",
+      "sal": "190000",
+      "deptno": "15"
+    },
+    {
+      "empno": 12,
+      "ename": "Keshav Saini",
+      "job": "Frontend Developer",
+      "sal": 200000,
+      "deptno": "10"
+    },
+    {
+      "empno": 13,
+      "ename": "Fatima",
+      "job": "Technical Consultant",
+      "sal": 220000,
+      "deptno": "11"
+    },
+    {
+      "empno": 14,
+      "ename": "Shreya",
+      "job": "Python Developer",
+      "sal": "200000",
+      "deptno": "9"
+    }
+  ]
+}
